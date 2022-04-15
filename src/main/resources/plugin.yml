@@ -1,0 +1,6 @@
+name: ${project.name}
+main: net.cyberflame.ancientcore.AncientCorePlugin
+version: ${project.version}
+description: Plugin
+website: https://cyberfla.me/
+author: CyberFlame
